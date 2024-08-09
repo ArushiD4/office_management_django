@@ -1,5 +1,5 @@
-<h2><b>REPORT</b></h2> <br>
-<h2><b>ARUSHI DABLI <br> BCA-CTIS <br> 5th SEMESTER <br> ROLL NUMBER: 130410422036 <br> SUBJECT: SERVER SIDE SCRIPTING</b> </h2>
+<p align="center"><h2><b>REPORT</b></h2> <br></p>
+<p align="center"><h3>ARUSHI DABLI <br> BCA-CTIS <br> 5th SEMESTER <br> ROLL NUMBER: 130410422036 <br> SUBJECT: SERVER SIDE SCRIPTING</h2></p>
 <h3><b>OBJECTIVE</b> </h3>
 To develop an office management system using Django and PostgreSQL, providing CRUD functionality for employee records with secure, role-based access control. <br>
 <h4><b>Tools and Libraries Used</h4></b>
